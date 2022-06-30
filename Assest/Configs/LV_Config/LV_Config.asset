@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bade04d8577d45243a8fd40f7295594a, type: 3}
+  m_Name: LV_Config
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 8c2ec449616a7154583df333ea062c5f, type: 2}
+    - {fileID: 11400000, guid: fdb01942e63962b44b1f10e7861d18b5, type: 2}
+    - {fileID: 11400000, guid: 46bb100d4fc1cc942bea83c67ff3f9b0, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: configDic
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.Dictionary`2[[System.Int32,
+        mscorlib],[JKFrame.ConfigBase, Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Inventory
+    - Name: $v
+      Entry: 7
+      Data: 2|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[JKFrame.ConfigBase,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 3|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  Prefab: {fileID: 0}
+  CreatMonsterInterval: 1
+  MaxMonsterCountOnScene: 2
+  CreateMonsterConfigs:
+  - Monster_Config: {fileID: 11400000, guid: ac13f5868b5a0854187178ed6ce48ed5, type: 2}
+    Probability: 0
+  - Monster_Config: {fileID: 11400000, guid: 1120fd2ad025aba41ab722faed9c221d, type: 2}
+    Probability: 0
+  - Monster_Config: {fileID: 11400000, guid: bd3adddc9758010468d5d0ee890173fc, type: 2}
+    Probability: 0
+  - Monster_Config: {fileID: 11400000, guid: 9a478e3abda89a845b8c9f02b795ca32, type: 2}
+    Probability: 0
+  - Monster_Config: {fileID: 11400000, guid: 4a2b9b48864804647bcf9ddf1ef3a0f2, type: 2}
+    Probability: 0
+  - Monster_Config: {fileID: 11400000, guid: 44ad1039dd460fb49a4563166c590232, type: 2}
+    Probability: 0

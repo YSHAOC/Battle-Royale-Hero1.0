@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fde4fa2118033a48b3ef704166765bd, type: 3}
+  m_Name: Pistol_ItemConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  itemType: 1
+  itemName: "\u624B\u67AA"
+  itemPrefab: {fileID: 7510528619858064960, guid: 7ea4ac0022de91142aadeff877fa1824,
+    type: 3}
+  itemIcon: {fileID: 21300000, guid: c90cb40ea7b34ec43b9f928b5d69e086, type: 3}
+  itemAmount: 1
+  description: "\u8FD9\u662F\u4E00\u628A\u624B\u67AA\uFF01\uFF01"
+  stackable: 0
+  item_Data: {fileID: 11400000, guid: b711cf0bddffdd246880be38f365f49f, type: 2}
+  useable_Config: {fileID: 0}
+  weaponPrefab: {fileID: 3823321262691816068, guid: e191308afba47004e917a3d044d0c0b1,
+    type: 3}
+  weapon_Config: {fileID: 11400000, guid: b711cf0bddffdd246880be38f365f49f, type: 2}
+  weapon_animator: {fileID: 9100000, guid: 7b2d5bdbff8181e42a3794acab1c993d, type: 2}
+  Weapon_BulletPrefab: {fileID: 0}
+  helmetPrefab: {fileID: 0}
+  helmetItem_Config: {fileID: 0}
+  defencePrefab: {fileID: 0}
+  defenceItem_Config: {fileID: 0}
+  bagPrefab: {fileID: 0}
+  bagEquipItem_Config: {fileID: 0}

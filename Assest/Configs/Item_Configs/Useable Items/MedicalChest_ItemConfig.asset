@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fde4fa2118033a48b3ef704166765bd, type: 3}
+  m_Name: MedicalChest_ItemConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Prefab: {fileID: 0}
+  itemType: 0
+  itemName: "\u836F\u7BB1"
+  itemPrefab: {fileID: 7480320763337845588, guid: ec2d6e315ad2de04186a2cf9cbfb65f9,
+    type: 3}
+  itemIcon: {fileID: 21300000, guid: ebcefa4f2ff56f24eb1ce9d802646967, type: 3}
+  itemAmount: 1
+  description: "\u8FD9\u4E2A\u4E00\u4E2A\u836F\u7BB1\uFF01\u53EF\u4EE5\u6062\u590D80\u6EF4\u8840\uFF01\uFF01\uFF01"
+  stackable: 1
+  item_Data: {fileID: 11400000, guid: db2adde07944a984a87942fd126aa456, type: 2}
+  useable_Config: {fileID: 11400000, guid: db2adde07944a984a87942fd126aa456, type: 2}
+  weaponPrefab: {fileID: 0}
+  weapon_Config: {fileID: 0}
+  weapon_animator: {fileID: 0}
+  Weapon_BulletPrefab: {fileID: 0}
+  helmetPrefab: {fileID: 0}
+  helmetItem_Config: {fileID: 0}
+  defencePrefab: {fileID: 0}
+  defenceItem_Config: {fileID: 0}
+  bagPrefab: {fileID: 0}
+  bagEquipItem_Config: {fileID: 0}
